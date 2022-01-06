@@ -1,12 +1,6 @@
 /**style sheet**/
 #header {
   position: fixed;
-}
-#header-img {
-  position: fixed;
-  left: 50px;
-}
-#nav-bar {
-  position: fixed;
-  left: 50px;
+  display: flex;
+  top: 0;
 }
