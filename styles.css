@@ -4,3 +4,8 @@
   display: flex;
   top: 0;
 }
+@media and (max-width: 480px) {
+  #header {
+    position: absolute;
+  }
+}
