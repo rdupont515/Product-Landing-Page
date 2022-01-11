@@ -4,6 +4,24 @@
   display: flex;
   top: 0;
 }
+
+#section-1 {
+  position: absolute;
+  top: 70px;
+}
+#section-2 {
+  position: relative;
+  top: 150px;
+}
+#section-3 {
+  position: relative;
+  top: 200px;
+}
+
+#form {
+  position: relative;
+  top: auto;
+}
 @media and (max-width: 480px) {
   #header {
     position: absolute;
