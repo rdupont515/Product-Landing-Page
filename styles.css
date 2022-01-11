@@ -1,13 +1,18 @@
 /**style sheet**/
+body {
+  background-color: rgb(248, 245, 66);
+}
 #header {
   position: fixed;
   display: flex;
   top: 0;
+  flex: 0 0 100%;
+  background-color: salmon;
 }
 
 #section-1 {
-  position: absolute;
-  top: 70px;
+  position: relative;
+  top: 50px;
 }
 #section-2 {
   position: relative;
